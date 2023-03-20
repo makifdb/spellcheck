@@ -7,7 +7,7 @@ This is a simple spellchecker package for the Go programming language. It allows
 To install the package, simply run the following command:
 
 ```go
-go get github.com/makifdb/spellchecker
+go get github.com/makifdb/spellcheck
 ```
 
 ## Usage
